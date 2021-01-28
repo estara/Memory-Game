@@ -58,7 +58,7 @@ function createDivsForColors(colorArray) {
 }
 let howmany = 0
 let guessOne = {}
-// TODO: Implement this function!
+
 function handleCardClick(event) {
   if (howmany === 0){
     guessOne = event.target
